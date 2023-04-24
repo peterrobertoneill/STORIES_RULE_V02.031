@@ -1,0 +1,128 @@
+{
+    "branch": [
+        {
+            "ObjName": "quiet",
+            "objOrder": 1,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "quiet",
+                    "JVol": 0.0,
+                    "v_ON": false,
+                    "v_CLOSE": true,
+                    "v_HOLD": false,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "quiet",
+                    "v_VOL": 6.0,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": true,
+                    "i_HOLD": false,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "quiet",
+                    "a_ON": true,
+                    "a_OVER": true,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 5.900000095367432
+                }
+            ]
+        },
+        {
+            "ObjName": "warm",
+            "objOrder": 2,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "warm",
+                    "JVol": 0.0,
+                    "v_ON": false,
+                    "v_CLOSE": false,
+                    "v_HOLD": true,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "warm",
+                    "v_VOL": 5.199999809265137,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": true,
+                    "i_HOLD": true,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "warm",
+                    "a_ON": true,
+                    "a_OVER": true,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0
+                }
+            ]
+        },
+        {
+            "ObjName": "cool",
+            "objOrder": 3,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "cool",
+                    "JVol": 0.0,
+                    "v_ON": false,
+                    "v_CLOSE": false,
+                    "v_HOLD": true,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "cool",
+                    "v_VOL": 5.199999809265137,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": true,
+                    "i_HOLD": true,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "cool",
+                    "a_ON": true,
+                    "a_OVER": true,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0
+                }
+            ]
+        },
+        {
+            "ObjName": "loud",
+            "objOrder": 4,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "loud",
+                    "JVol": 0.0,
+                    "v_ON": false,
+                    "v_CLOSE": false,
+                    "v_HOLD": true,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "loud",
+                    "v_VOL": 5.199999809265137,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": true,
+                    "i_HOLD": true,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "loud",
+                    "a_ON": true,
+                    "a_OVER": true,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0
+                }
+            ]
+        }
+    ]
+}

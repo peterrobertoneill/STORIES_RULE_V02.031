@@ -1,0 +1,38 @@
+{
+    "branch": [
+        {
+            "ObjName": "default",
+            "objOrder": 1,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "default",
+                    "JVol": 0.0,
+                    "v_ON": false,
+                    "v_CLOSE": true,
+                    "v_HOLD": false,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "default",
+                    "v_IMAGEFILE_END": "Think Different",
+                    "v_VOL": 8.0,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": false,
+                    "i_HOLD": false,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "TBD",
+                    "a_ON": false,
+                    "a_OVER": false,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0,
+                    "a_CUES": 0,
+                    "a_SECONDS": 0.0
+                }
+            ]
+        }
+    ]
+}

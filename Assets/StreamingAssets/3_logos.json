@@ -1,0 +1,97 @@
+{
+    "branch": [
+        {
+            "ObjName": "logo_01",
+            "objOrder": 1,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "BK_logo_01",
+                    "JVol": 0.0,
+                    "v_ON": true,
+                    "v_CLOSE": false,
+                    "v_HOLD": true,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "logo_01",
+                    "v_VOL": 5.199999809265137,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": false,
+                    "i_HOLD": true,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "four",
+                    "a_ON": false,
+                    "a_OVER": true,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0
+                }
+            ]
+        },
+        {
+            "ObjName": "logo_01",
+            "objOrder": 2,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "logo_bk",
+                    "JVol": 0.0,
+                    "v_ON": true,
+                    "v_CLOSE": true,
+                    "v_HOLD": false,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "logo_01",
+                    "v_VOL": 8.0,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": false,
+                    "i_HOLD": false,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "logo_01",
+                    "a_ON": false,
+                    "a_OVER": false,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 5.0
+                }
+            ]
+        },
+        {
+            "ObjName": "logo_01",
+            "objOrder": 3,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "logo_01",
+                    "JVol": 0.0,
+                    "v_ON": true,
+                    "v_CLOSE": false,
+                    "v_HOLD": true,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "logo_01",
+                    "v_VOL": 8.0,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": false,
+                    "i_HOLD": false,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "logo_01",
+                    "a_ON": false,
+                    "a_OVER": false,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 5.0
+                }
+            ]
+        }
+    ]
+}

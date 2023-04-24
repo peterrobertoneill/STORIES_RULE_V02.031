@@ -1,0 +1,35 @@
+{
+    "branch": [
+        {
+            "ObjName": "four",
+            "objOrder": 1,
+            "subLeaf": [
+                {
+                    "RunOrder": 0,
+                    "JOrder": 1,
+                    "JName": "DUST",
+                    "JVol": 0.0,
+                    "v_ON": true,
+                    "v_CLOSE": true,
+                    "v_HOLD": false,
+                    "v_LOOP": false,
+                    "v_IMAGEFILE": "four",
+                    "v_VOL": 5.0,
+                    "v_FADE_IN": 0.0,
+                    "v_FADE_OUT": 0.0,
+                    "i_ON": false,
+                    "i_HOLD": false,
+                    "i_HOLD_TIME": 0.0,
+                    "i_IMAGEFILE": "default",
+                    "a_ON": false,
+                    "a_OVER": false,
+                    "a_AFTER": false,
+                    "a_FADE_IN": 0.0,
+                    "a_FADE_OUT": 0.0,
+                    "a_AUDIOFILE": "default.mp3",
+                    "a_VOL": 8.0
+                }
+            ]
+        }
+    ]
+}
